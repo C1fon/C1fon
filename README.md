@@ -33,7 +33,7 @@
 
 > "Design is not just how it looks and feels. Design is how it works." – Steve Jobs
 
-- [Project 1](#) – Coming soon
+- [Memory Card Game](https://github.com/C1fon/Memory-Game) - [Play Here](https://c1fon.github.io/Memory-Game/)
 
 - [Project 2](#) – Coming soon
 
