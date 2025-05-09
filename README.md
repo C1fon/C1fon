@@ -33,9 +33,9 @@
 
 > "Design is not just how it looks and feels. Design is how it works." – Steve Jobs
 
-- [Project 1](#) – Cooming son
+- [Project 1](#) – Coming soon
 
-- [Project 2](#) – Cooming son
+- [Project 2](#) – Coming soon
 
 # 📊 Github Stats
 
