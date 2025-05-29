@@ -10,7 +10,6 @@
 
 # 💻 Technologies and Languages
  
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -35,7 +34,9 @@
 
 - [Memory Card Game](https://github.com/C1fon/Memory-Game) - [Play Here](https://c1fon.github.io/Memory-Game/)
 
-- [Project 2](#) – Coming soon
+- [IP Calculator](https://github.com/C1fon/Ip-Calculator) – [Use Here](https://c1fon.github.io/Ip-Calculator/)
+
+- [Google Maps](https://github.com/C1fon/Google-Maps-Api) – [Use Here](https://c1fon.github.io/Google-Maps-Api/)
 
 # 📊 Github Stats
 
